@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/job-board/static/css/main.17b45029.chunk.css",
+    "main.js": "/job-board/static/js/main.bea6d468.chunk.js",
+    "main.js.map": "/job-board/static/js/main.bea6d468.chunk.js.map",
+    "runtime-main.js": "/job-board/static/js/runtime-main.92c04642.js",
+    "runtime-main.js.map": "/job-board/static/js/runtime-main.92c04642.js.map",
+    "static/js/2.b7a3c462.chunk.js": "/job-board/static/js/2.b7a3c462.chunk.js",
+    "static/js/2.b7a3c462.chunk.js.map": "/job-board/static/js/2.b7a3c462.chunk.js.map",
+    "static/js/3.bc015771.chunk.js": "/job-board/static/js/3.bc015771.chunk.js",
+    "static/js/3.bc015771.chunk.js.map": "/job-board/static/js/3.bc015771.chunk.js.map",
+    "index.html": "/job-board/index.html",
+    "static/css/main.17b45029.chunk.css.map": "/job-board/static/css/main.17b45029.chunk.css.map",
+    "static/js/2.b7a3c462.chunk.js.LICENSE.txt": "/job-board/static/js/2.b7a3c462.chunk.js.LICENSE.txt",
+    "static/media/earth.962d897b.png": "/job-board/static/media/earth.962d897b.png",
+    "static/media/jupiter.d8f8830c.png": "/job-board/static/media/jupiter.d8f8830c.png",
+    "static/media/mars.fb57ced8.png": "/job-board/static/media/mars.fb57ced8.png",
+    "static/media/mercury.8563bd70.png": "/job-board/static/media/mercury.8563bd70.png",
+    "static/media/neptune.ce437c4d.png": "/job-board/static/media/neptune.ce437c4d.png",
+    "static/media/saturn.ac2e2601.png": "/job-board/static/media/saturn.ac2e2601.png",
+    "static/media/uranus.e07c9375.png": "/job-board/static/media/uranus.e07c9375.png",
+    "static/media/venus.ef04ea33.png": "/job-board/static/media/venus.ef04ea33.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92c04642.js",
+    "static/js/2.b7a3c462.chunk.js",
+    "static/css/main.17b45029.chunk.css",
+    "static/js/main.bea6d468.chunk.js"
+  ]
+}
