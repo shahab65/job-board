@@ -67,6 +67,7 @@ function AppBar() {
           languages={[
             { code: "pt", name: "Portuguese", flag: "/images/flags/pt.png" },
             { code: "en", name: "English", flag: "/images/flags/us.png" },
+            { code: "fr", name: "French", flag: "/images/flags/fr.png" },
           ]}
         />
         <Trans>
