@@ -9,7 +9,7 @@ import {
 
 import { ThemeType, Direction } from "themes/default";
 
-export type Language = "pt" | "en";
+export type Language = "pt" | "en" | "fr";
 
 export type Settings = {
   type: ThemeType;
