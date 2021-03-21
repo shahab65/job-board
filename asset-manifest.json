@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/job-board/static/css/main.17b45029.chunk.css",
-    "main.js": "/job-board/static/js/main.003a6d7c.chunk.js",
-    "main.js.map": "/job-board/static/js/main.003a6d7c.chunk.js.map",
+    "main.js": "/job-board/static/js/main.1d5512e4.chunk.js",
+    "main.js.map": "/job-board/static/js/main.1d5512e4.chunk.js.map",
     "runtime-main.js": "/job-board/static/js/runtime-main.92c04642.js",
     "runtime-main.js.map": "/job-board/static/js/runtime-main.92c04642.js.map",
     "static/js/2.b7a3c462.chunk.js": "/job-board/static/js/2.b7a3c462.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.92c04642.js",
     "static/js/2.b7a3c462.chunk.js",
     "static/css/main.17b45029.chunk.css",
-    "static/js/main.003a6d7c.chunk.js"
+    "static/js/main.1d5512e4.chunk.js"
   ]
 }
