@@ -65,9 +65,21 @@ function AppBar() {
 
         <LanguageSelect
           languages={[
-            { code: "pt", name: "Portuguese", flag: "/images/flags/pt.png" },
-            { code: "en", name: "English", flag: "/images/flags/us.png" },
-            { code: "fr", name: "French", flag: "/images/flags/fr.png" },
+            {
+              code: "pt",
+              name: "Portuguese",
+              flag: process.env.PUBLIC_URL + "/images/flags/pt.png",
+            },
+            {
+              code: "en",
+              name: "English",
+              flag: process.env.PUBLIC_URL + "/images/flags/us.png",
+            },
+            {
+              code: "fr",
+              name: "French",
+              flag: process.env.PUBLIC_URL + "/images/flags/fr.png",
+            },
           ]}
         />
         <Trans>

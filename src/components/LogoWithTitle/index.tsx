@@ -34,7 +34,7 @@ function LogoWithTitle({}: LogoWithTitleProps) {
         <img
           className={classes.logoImage}
           width="45px"
-          src="/logo.png"
+          src={process.env.PUBLIC_URL + "/logo.png"}
           alt="logo"
         />
         <Hidden smDown implementation="css">

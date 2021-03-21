@@ -48,7 +48,7 @@ function ThemedApp({}: ThemedAppProps) {
   return (
     <ThemeProvider theme={theme(settings.type)}>
       <CssBaseline />
-      <Router>
+      <Router basename={"/job-board"}>
         <Routes />
       </Router>
       {/* <button
